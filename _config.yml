@@ -49,9 +49,9 @@ webmaster_verifications:
   google: 5yoFoYlsgYX9yfQwq8wRkgZ1yyFVrpLLV-y_9N60wlg
   bing: 3A68898E7BC8A6FC93264D91B48AD6FD
   alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
+  yandex: 2733ff72a59bb98a
   baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+  facebook: dlxugcqgylwpg6ieba3gal91hdovzs
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
