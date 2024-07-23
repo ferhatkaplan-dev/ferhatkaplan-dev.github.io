@@ -1,6 +1,6 @@
 ---
 title: "VS Code Kısayolları ile Daha Hızlı Kodlama: Pratik Rehber"
-date: 2024-07-23 15:30:00 +0300
+date: 2024-07-23 16:30:00 +0300
 categories: [programing, vscode]
 tags: [vscode shortcut, vscode, shortcuts]
 description: "VS Code kısayolları ile verimliliğinizi artırın! Ekran bölme, dosya geçişleri, kod navigasyonu ve terminal kullanımı için en iyi ipuçlarını keşfedin."
