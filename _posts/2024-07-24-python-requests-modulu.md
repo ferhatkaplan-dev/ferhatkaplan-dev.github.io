@@ -10,6 +10,8 @@ image:
   alt: Python Requests modülünü tanıtan bir resim.
 ---
 
+## Requests Nedir?
+
 **Requests** modülü, HTTP isteklerini basit, anlaşılır bir şekilde kullanmamıza olanak tanıyan bir Python modülüdür. Genellikle veri çekme, API'lar ile çalışma ve otomasyon programları yazmak için kullanılır. Hadi nasıl kullanılıyormuş bakalım.
 
 ## HTTP İsteklerini Yakalamak İçin Express.js Kullanımı
@@ -56,7 +58,7 @@ app.listen(port, () => {
 Son olarak sunucumuzu çalıştırmak için `node server.js` komutunu çalıştıralım. Artık sunucumuz doğru bir şekilde çalışmaktadır.
 
 
-## Kurulum
+## Requests Kurulumu
 
 Requests modülümüzü sistemimize kurmamız için `pip` Python paket yöneticisinin kurulu olması gerekmektedir. Eğer Python kurulu ise `pip` yanında kurulu olarak gelmektedir. Terminale `pip` yazarak kurulu olup olmadığını kontrol edebilirsiniz.
 
