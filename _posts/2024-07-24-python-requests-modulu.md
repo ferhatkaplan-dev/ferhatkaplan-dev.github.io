@@ -6,7 +6,7 @@ tags: [python, requests modülü, modül, request]
 description: "Python Requests modülünü kullanarak HTTP istekleri yapmayı öğrenin. GET ve POST istekleri, parametre ve header ekleme, JSON veri alışverişi, hata yönetimi ve cookies kullanımı hakkında kapsamlı bilgi edinin."
 image:
   path: assets/img/post_images/2024-07-24-python-requests-modulu-preview.png
-  lqip: assets/img/post_images/2024-07-24-python-requests-modulu-preview.png
+  lqip: assets/img/post_images/2024-07-24-python-requests-modulu-preview-low.png
   alt: Python Requests modülünü tanıtan bir resim.
 ---
 
