@@ -5,8 +5,8 @@ categories: [programing, git]
 tags: [git, github, commit message]
 description: "Git commit nedir, nasıl yapılır ve neden önemlidir? Bu makalede, kaliteli commit mesajları oluşturma, semantik commit kullanımı ve Git ticket sistemleriyle uyum hakkında kapsamlı bilgiler bulabilirsiniz. Projenizi nasıl daha iyi yönetebilirsiniz?"
 image:
-  path: assets/img/post_images/2024-07-23-commit-mesaji-nasil-yazilmali.png
-  lqip: assets/img/post_images/2024-07-23-commit-mesaji-nasil-yazilmali-low.png
+  path: assets/img/post_images/2024-07-23-commit-mesaji-nasil-yazilmali.avif
+  lqip: assets/img/post_images/2024-07-23-commit-mesaji-nasil-yazilmali-low.avif
   alt: git commit mesajı fotoğrafı
 ---
 
