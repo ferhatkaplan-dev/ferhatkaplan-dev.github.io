@@ -302,3 +302,9 @@ console.log(derinKopya.y.z); // 8
 ## Sonuç
 
 Spread Operator, veri yapılarını daha etkili hale getirir, kopyalama, birleştirme gibi işlemleri daha kolay hale getirir. Veri üzerinde mutasyon yapmadan verilerin manipülasyonuna olanak tanır. Eski yöntemlere nazaran kodu daha okunabilir ve basit bir hale getirir. Bu sayede bakımı ve anlaşılması daha kolay olur.
+
+
+**Kaynaklar:**
+- <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax>
+- <https://www.freecodecamp.org/news/an-introduction-to-spread-syntax-in-javascript-fba39595922c/>
+- <https://javascript.info/rest-parameters-spread>
