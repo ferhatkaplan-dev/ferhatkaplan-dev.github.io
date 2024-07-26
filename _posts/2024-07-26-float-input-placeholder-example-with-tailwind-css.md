@@ -15,6 +15,7 @@ If you want to add a little more visuality to our input, we can use float placeh
 
 
 ![float placeholder input image](assets/img/post_images/1_OyfVK0yH-3Gz1Cq9BvFFYw.gif)
+_float input placeholder example with tailwind css gif_
 
 ```html
 <div class="relative">
