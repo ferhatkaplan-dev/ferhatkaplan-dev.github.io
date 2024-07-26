@@ -51,6 +51,7 @@ Spread operator’ünü kullandığımız 3 farklı yer bulunmaktadır:
 3. Objelerde: `{ ...obj, key: 'value'}`
 
 >  Not: Spread operator sadece iterasyon yapılabilen diziler ve nesnelerde kullanılabilir.
+{: .prompt-tip }
 
 Bir nesne, bir dizinin içinde spread operator ile kullanılamaz.
 
