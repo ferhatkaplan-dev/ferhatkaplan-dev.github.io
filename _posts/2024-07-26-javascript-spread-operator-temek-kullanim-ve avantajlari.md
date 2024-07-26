@@ -13,9 +13,9 @@ image:
 
 ## Spread Operator Nedir?
 
-JavaScript'te spread Operator, ES6 (ECMAScript 2015) ile hayatımıza giren ve dizileri ve objeleri kolay bir şekilde manipüle etmek için kullandığımız güçlü bir yapıdır.
+JavaScript'te spread Operator, **ES6 (ECMAScript 2015)** ile hayatımıza giren ve dizileri ve objeleri kolay bir şekilde manipüle etmek için kullandığımız güçlü bir yapıdır.
 
-Spread operator, (…) ile gösterilir ve iterasyon yapılabilir bir dizi veya nesnenin içindeki değerleri ayırarak başka bir dizi veya nesne içinde kullanmayı veya fonksiyona parametre olarak vermek için kullanılan bir JavaScript operatörüdür.
+Spread operator, `(…)` ile gösterilir ve iterasyon yapılabilir bir dizi veya nesnenin içindeki değerleri ayırarak başka bir dizi veya nesne içinde kullanmayı veya fonksiyona parametre olarak vermek için kullanılan bir JavaScript operatörüdür.
 
 Yani kısaca, **spread** operator, iterasyon edilebilir bir obje veya dizinin içindeki elemanları ayırarak kullanmamıza olanak tanır.
 
