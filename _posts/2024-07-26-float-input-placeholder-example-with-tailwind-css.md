@@ -5,7 +5,7 @@ categories: [programing, tailwind css]
 tags: [tailwind css, react, typescript, placeholder animation, float placeholder]
 description: "Learn how to enhance your forms with float placeholders using Tailwind CSS. This guide provides a clear example of implementing float placeholders in both HTML and React, showcasing practical code snippets and styling techniques for a sleek, user-friendly interface."
 image:
-  path: assets/img/post_images/2024-07-26-float-input-placeholder-example-with-tailwind-css-preview.png
+  path: assets/img/post_images/2024-07-26-float-input-placeholder-example-with-tailwind-css-preview.webp
   lqip: assets/img/post_images/2024-07-26-float-input-placeholder-example-with-tailwind-css-preview-low.avif
   alt: float input placeholder preview image
 lang: en

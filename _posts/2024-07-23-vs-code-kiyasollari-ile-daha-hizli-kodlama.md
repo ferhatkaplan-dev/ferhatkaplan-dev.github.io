@@ -5,7 +5,7 @@ categories: [programing, vscode]
 tags: [vscode shortcut, vscode, shortcuts]
 description: "VS Code kısayolları ile verimliliğinizi artırın! Ekran bölme, dosya geçişleri, kod navigasyonu ve terminal kullanımı için en iyi ipuçlarını keşfedin."
 image:
-  path: assets/img/post_images/2024-07-23-vs-code-kiyasollari-ile-daha-hizli-kodlama.avif
+  path: assets/img/post_images/2024-07-23-vs-code-kiyasollari-ile-daha-hizli-kodlama.webp
   lqip: assets/img/post_images/2024-07-23-vs-code-kiyasollari-ile-daha-hizli-kodlama-low.avif
   alt: elinde biligisayar olan bir ninja
 ---
