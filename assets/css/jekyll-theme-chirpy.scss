@@ -14,3 +14,31 @@ header .post-desc   {
   font-size: 1.05rem !important;
   font-family: 'Open Sans', sans-serif !important;
 }
+
+
+/* Style the progress container */
+.progress-container {
+  width: 100%;
+  background-color: transparent;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+
+.progress-bar {
+  height: 3px;
+  background-color: #03fd70;
+  width: 0%;
+  transition: width 0.2s ease;
+}
+
+
+
+.post-preview {
+  transition: transform .4s;
+}
+.post-preview:hover {
+  transform: scale(105%);
+
+}
