@@ -267,8 +267,6 @@ console.log(orjinal.y.z); // 8 (orjinal nesne de değişti)
 console.log(kopya.y.z);    // 8
 ```
 
-Yukarida `orjinal` nesnesini spread ile `kopya` nesnesine kopyaladik. Ama spread  shallow copy  yaptigi icin `kopya.y.x = 8;` satiri orjinal nesneyi de degistirdi.
-
 Yukarıda, `orijinal` nesneyi spread operatörüyle kopyaladık. Ancak spread operatorü shallow copy yaptığı için `kopya.y.z = 8;` satırı orijinal nesneyi değiştirdi.
 
 ### Derin Kopya (Deep Copy) Yapma
